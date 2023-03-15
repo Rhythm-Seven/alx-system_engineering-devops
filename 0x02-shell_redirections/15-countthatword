@@ -1,0 +1,2 @@
+#!/bin/bash
+grp "bin" /etc/passwd | wc -l
